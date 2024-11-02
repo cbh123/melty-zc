@@ -1,0 +1,139 @@
+:root {
+    --primary-color: #2c3e50;
+    --secondary-color: #3498db;
+    --background-color: #f8f9fa;
+    --text-color: #2c3e50;
+    --spacing: 2rem;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    line-height: 1.6;
+    color: var(--text-color);
+    background-color: var(--background-color);
+}
+
+header {
+    padding: var(--spacing);
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: var(--primary-color);
+    font-weight: 500;
+}
+
+nav ul li a:hover {
+    color: var(--secondary-color);
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: var(--spacing);
+}
+
+section {
+    margin-bottom: calc(var(--spacing) * 2);
+}
+
+#hero {
+    text-align: center;
+    padding: calc(var(--spacing) * 2) 0;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    font-size: 2rem;
+    margin-bottom: var(--spacing);
+    color: var(--primary-color);
+}
+
+.quote {
+    font-style: italic;
+    color: #666;
+    max-width: 600px;
+    margin: var(--spacing) auto;
+    padding: 1rem;
+    border-left: 4px solid var(--secondary-color);
+}
+
+.experience-item, .education-item {
+    margin-bottom: var(--spacing);
+}
+
+.experience-item h3, .education-item h3 {
+    color: var(--primary-color);
+    margin-bottom: 0.5rem;
+}
+
+.position {
+    font-weight: 500;
+}
+
+.date {
+    color: #666;
+    font-size: 0.9rem;
+}
+
+#interests ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+#interests ul li {
+    background-color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+footer {
+    text-align: center;
+    padding: var(--spacing);
+    background-color: white;
+    border-top: 1px solid #eee;
+}
+
+@media (max-width: 600px) {
+    nav ul {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    nav ul li {
+        margin: 0.5rem 0;
+    }
+    
+    h1 {
+        font-size: 2rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+}
