@@ -1,571 +1,984 @@
 
-# Zarda (food)
+# Challey Spotlight: Zia Muhammad
 
-**Score:** 0.1727304756641388
-**Author:** Contributors to Wikimedia projects
-**Published:** 2009-08-07T00:00:00.000Z
-**URL:** https://en.wikipedia.org/wiki/Zarda_(food)
-
-From Wikipedia, the free encyclopedia
- 
-  Zarda         A plate of coloured zarda, flavoured with various ingredients    Alternative names Zorda, jarda, jorda   Course  Dessert    Place of origin  Mughal Empire    Region or state  Indian subcontinent    Associated cuisine   Pakistan, India, Bangladesh    Main ingredients  Rice, raisins, cardamom, saffron, pistachios or almonds    Variations Mutanjan   
- Zarda (Hindi: ज़र्दा zardā, Urdu:  زردہ  zardā, Bengali: জর্দা jôrdā) is a traditional boiled sweet rice dish, native to the Indian subcontinent, made with saffron, milk and sugar, and flavoured with cardamom, raisins, pistachios or almonds. [1]   [2]  The name 'zarda' comes from Persian word 'zard' زرد meaning 'yellow', [2]  because the food coloring added to the rice gives it a yellow color. Zarda is typically served after a meal. In the Indian subcontinent, zarda was and still remains a popular dessert on special occasions such as weddings. It is quite similar to sholezard, a traditional Iranian dessert, and zerde, a traditional Turkish dessert.
- Often in Pakistan, instead of yellow food coloring, multiple food colorings are added so the rice grains are of multiple colors. Additionally, khoya, candied fruits (murabba) and nuts are an essential part of zarda made at auspicious occasions. There also is a popular use of raisins, and other dried fruits to dish.
- Dating back to Mughal India, zarda had a variation with an addition of small fried sweetmeat pieces called 'mutanjan'. This dish was a favourite of Emperor Shahjahan and was often made on his request. This rice dish was made for guests at special banquets.
- The Assyrian people also prepare this dish (with the same name), typically made while fasting during Lent—thus prepared without dairy products.
- See also  [  edit  ]  
-  List of rice dishes 
- Pakistani rice dishes 
- Pudding  
- References  [  edit  ]  
- 
-   ^     "Zarda Recipe (Indian Sweet Rice)". The Huffington Post. 17 November 2016. Archived from the original on 1 February 2017. Retrieved 19 January 2017.   
- ^    a       b      "Mama’s Punjabi Recipes- Mithe Chawal (Sweet Rice)" Archived 4 February 2019 at the Wayback Machine. Indo American News. 12 February 2015.
-
----
-
-
-# Chhena jalebi
-
-**Score:** 0.1715494841337204
-**Author:** Contributors to Wikimedia projects
-**Published:** 2009-04-07T00:00:00.000Z
-**URL:** https://en.wikipedia.org/wiki/Chhena_Jalebi
-
-From Wikipedia, the free encyclopedia
-   (Redirected from Chhena Jalebi)   
-  Chhena jalebi         Chhena jilapi    Alternative names Chhena Jhilapi   Course  Dessert    Place of origin  India    Region or state  Odisha    Associated cuisine   India    Main ingredients  Cottage cheese or chhena, sugar    Similar dishes  Jalebi, Imarti, Shahi jilapi            Media: Chhena jalebi       
- Chhena jalebi or Chhena jilapi is a sweet dish originally from the eastern state of Odisha in the Indian subcontinent a dessert made from chhena. It's popular in Odisha, West Bengal, Bangladesh and other eastern regions of the Indian subcontinent.
- Preparation  [  edit  ]  
-Chhena jilapi are made in a manner very similar to regular jalebis which are popular throughout India. However, the basic ingredient is fresh curd cheese called chhenna. [1] 
-Fresh chhena is thoroughly kneaded and rolled up into shapes similar to pretzels, before being deep fried. The fully fried chhena pretzels are then soaked in a sugary syrup. Chhena jilapis are served either hot or chilled.
- See also  [  edit  ]  
-  Jalebi 
- Khira sagara 
- Oriya cuisine 
- Bangladeshi cuisine  
- References  [  edit  ]  
- 
-   ^    Sahu, Deepika (2012). "Discover Odisha's 'sweet' magic".  The Times of India . Archived from the original on 1 February 2013. Retrieved 3 July 2012. chenna jilapi (A jalebi made with cheese)    
- 
- External links  [  edit  ]  
-  Orissadiary: Chhena Jilabi 
- Chhena Jalebi
-
----
-
-
-# Chadachadi
-
-**Score:** 0.16633258759975433
-**Author:** Contributors to Wikimedia projects
-**Published:** 2006-10-07T00:00:00.000Z
-**URL:** https://en.wikipedia.org/wiki/Chadachadi
-
-From Wikipedia, the free encyclopedia
-     Chadachadi 
-Chadachadi, Chorchori or charchari (Odia:  ଚଡ଼ଚଡ଼ି , Bengali:  চচ্চড়ি ) is a unique char-flavored mixed vegetable dish of India and Bangladesh, found primarily in Odia and Bengali cuisine of the Indian subcontinent. [1]   [2] 
- Origin  [  edit  ]  
-Chorchori is often cooked with leftover vegetables at the end of the week. [3]  The story behind the dish is that in Bengali households, traditionally men would go grocery shopping once a week. At the end of the week, the household would be left with bits of all the vegetables bought earlier in the week. [4] 
- Preparation  [  edit  ]  
-To cook chorchori, a  chaunk  is prepared by frying spices such as black mustard seeds and minced ginger root in oil or ghee. Often, panch phoron is used. Then, chopped vegetables are added and stir-fried briefly. Water, salt, and more spices are added, and the vegetables are allowed to simmer. [2]   [3] 
- Once all the liquid has been absorbed and cooked off, the vegetables begin to fry in the oil or ghee left in the bottom of the pot. As the vegetables begin to char, a sizzling sound is heard, and the pot is removed from the heat.
- After a few minutes, the thin charred crust is stirred gently into the dish.
- Typical vegetables used for chadachadi include potatoes, eggplant, spinach, French beans, and cauliflower. [4] 
- See also  [  edit  ]  
-  Oriya cuisine 
- Bengali cuisine  
- References  [  edit  ]  
- 
-   ^    Ninh, Keith (2020). 30 Minutes 60 Recipes For Beginners Cooking Easy Cooking For 30 Asian and 30 Western Delightful Dishes For You and Your Family. Keith Ong. p. 45.   
- ^    a       b      Kapoor, Sanjeev; Kapoor, Alyona (2000). Sanjeev Kapoor's Khana Khazana Celebration of Indian Cookery. Popular Prakashan.   
- ^    a       b      Kapoor, Sanjeev (2011). How to Cook Indian More Than 500 Classic Recipes for the Modern Kitchen. ABRAMS.   
- ^    a       b      Kapoor, Sanjeev. Cooking With Olive Oil. Popular Prakashan.   
- 
-  Yamuna Devi (1987). The Art of Indian Vegetarian Cooking: Lord Krishna's Cuisine. Illustrations by David Baird. New York, New York: Bala Books. 
- External links  [  edit  ]  
-  Charchari recipe 
- Vegetable charchari recipe (about 1/3 of the way down the page)
-
----
-
-
-# Khichdi (dish) - Wikipedia
-
-**Score:** 0.16223597526550293
+**Score:** 0.15086786448955536
 **Author:** 
-**Published:** 2023-02-06T14:21:27.724Z
-**URL:** https://en.wikipedia.org/wiki/Khichdi_(dish)
+**Published:** 2022-09-26T00:00:00.000Z
+**URL:** https://www.ndsu.edu/challeyinstitute/outreach/news/detail/69958/
 
-From Wikipedia, the free encyclopedia
- 
- Khichuri      A bowl of dal khichri served with achar     Alternative names  Khichdi, khichadi, khichdee, khichadi, khengchuri (Bengali), khisiri (Assamese), khechidi/khechudi (Odia), kisuri (Sylheti), khichari, kitcheree, kitchree    Region or state  Indian Subcontinent    Associated cuisine   India, Bangladesh, Pakistan, Nepal, Trinidad and Tobago, Guyana, Suriname, Fiji, Mauritius    Main ingredients Rice, lentils, spices   Variations  Mung dal khichri, bajra-ri-khichri (Rajasthani millet khichri), sadi khichri (lentil and rice khichri)         Media: Khichuri       
-     
-     
-  Khichdi  or  khichri  (Urdu: کھچڑی,  romanized:  khicṛī, Hindi: खिचड़ी,  romanized:  khicṛī, pronounced  [ˈkʰɪtʃɽiː], Bengali: খিচুড়ি, Odia: ଖେଚୁଡି) is a dish in South Asian cuisine made of rice and lentils ( dal ) with numerous variations. Variations include  bajra  and mung dal  khichri. In Indian culture, in several regions, especially in the northern areas, it is considered one of the first solid foods that babies eat. [1]   [2]   [3] 
-  Khichri is a salty porridge. Dalia is another similar sweet porridge made from the crushed wheat or barley mixed with sugar and milk. [4] 
-Etymology and spelling[edit]
-     
-The word Khichdī is derived from Sanskrit खिच्चा  khiccā , [5]  a dish of rice and legumes. [6] 
- Some divergence of transliteration may be noted in the third consonant in the word khicṛī. The sound is the retroflex flap [ɽ], which is written in Hindi with the Devanagari letter ⟨ड़⟩, and in Urdu script with the Perso-Arabic letter ⟨ڑ⟩. In Hindustani phonology, the etymological origin of the retroflex flap was /ɖ/ when it occurred between vowels. [7]  Hence in Devanagari the letter ⟨ड⟩, representing /ɖ/, was adapted to write /ɽ/ by adding a diacritic under it. In Urdu script, the phonological quality of the flap was represented by adapting the letter ⟨ر⟩, representing /r/, with a diacritic added above it to indicate the retroflex quality. The occurrence of this consonant in the word khicṛī has given rise to two alternative spellings in English: khichri, which reflects its phonology, and khichdi, which reflects its etymology.
-History[edit]
-       Khichuri, Bangladeshi-style  
-     
-The Greek king Seleucus during his campaign in India (305-303 BC), mentioned that rice with pulses is very popular among people of the Indian subcontinent. [3]  Strabo also notes that Indian food mainly consisted of rice porridge and a beverage made of rice, presently called arak. [8]  The Moroccan traveller Ibn Battuta mentions khichdi as a dish in India composed of rice and mung beans, during his stay around 1350. [9]  khichdi is described in the writings of Afanasiy Nikitin, a Russian adventurer who travelled to the Indian subcontinent in the 15th century. It was very popular with the Mughals, especially Jahangir.  Ain-i-Akbari , a 16th-century document written by Mughal Emperor Akbar's vizier, Abu'l-Fazl ibn Mubarak, mentions the recipe for khichdi, which gives seven variations. [10]  There is an anecdotal story featuring Akbar, Birbal and khichdi. [11] 
- The Anglo-Indian dish kedgeree is thought to derive from khichri. [12]   [13] 
-Regional variations[edit]
-     
-Khichdi is a very popular dish across the Indian subcontinent, including in Bangladesh, Nepal and Pakistan also. The dish is also widely prepared in many Indian states, such as Punjab, Haryana, Rajasthan, Karnataka, Telangana, Madhya Pradesh, Gujarat, Tamil Nadu, Andhra Pradesh, West Bengal, Assam, Bihar, Jharkhand, Uttar Pradesh, Odisha, and Maharashtra. [14]  Vegetables such as cauliflower, potato, and green peas are commonly added.
-  Hindus, mainly from north/northwest, who avoid eating grains during fasting, eat Sabudana khichri made from sago. [15]   [16]  In the southern part of India, however, the word khichri is not that popular. While people of Tamil Nadu and Andhra regions cook Pongal, and Kannadigas prepare  Huggi  which is mung dal khichdi and  Bisi bele bhath, a pigeon pea variation with vegetables, Keralites have no similar dish.
- Khichdi was the inspiration for Anglo-Indian kedgeree  [12]   [17]  Khichdi is a popular traditional staple in Haryana, specially in the rural areas. Haryanvi khichdi is made from pearl millet and mung dal (split mung bean) pounded in mortar (unkhal), and often eaten by mixing with warm ghee or  lassi , or even yogurt. [18]   [19]   [20]   [4]  Sometimes,  jowar  is also mixed with bajra and mung dal. [4]  Khichri is salt
+The Challey Institute for Global Innovation and Growth is highlighting the impact of our faculty and students at NDSU and in the community. This month, we are shining a spotlight on Zia Muhammad. 
+ Challey Spotlight: Zia Muhammad 
+ Graduate student, Computer Science 
+ Zia Muhammad is a first-year Ph.D. student studying computer science at NDSU. He grew up in Islamabad, Pakistan, where he completed his master’s degree in information security at the National University of Science and Technology and taught cybersecurity at Air University. He previously worked as a researcher at the National Cyber Security Auditing and Evaluation Lab in Pakistan. In August 2022, he came to the United States to pursue his doctoral studies at NDSU. As a Mancur Olson Graduate Fellow, he will engage with the ideas of the Challey Institute and participate in a graduate student reading group on “An Introduction to Public Choice.”
+ What inspired you to go to graduate school, and why did you choose NDSU?  
+It was my dream to do a Ph.D. and dedicate all my time and efforts to global research and innovation, specifically in computer science. During my master’s, I decided to study at an international institution to gain exposure and cultural diversity. So, I started looking for Ph.D. institutions that are globally recognized, and that is how I found North Dakota State University. It is a top research institution in computer science. People from all around the world come here to study, and there are a lot of career opportunities for students as research and teaching assistants. 
+ Your advisor is Challey Scholar Dr. Zahid Anwar. What research topics are the two of you currently working on?  
+I have been working with Dr. Zahid. It has been a great working experience, and he is really an expert adviser. When we talk about cybersecurity, he is an IT geek who is dedicated and a field expert. There is always something to learn in every meeting. He is the best mentor because he takes you step-by-step and guides you through the research process. We just started to explore different domains. Currently, we are working on the security challenges facing autonomous vehicles and electric vehicles. We are also exploring mobile security and the impact of various public policies on society.
+ What does the Mancur Olson Graduate Fellowship mean to you? How will it help you pursue your career goals? 
+First of all, I am very happy to receive this fellowship, and I would like to thank the Challey Institute for making this effort. It means a lot. My main focus as a teacher was to work for the betterment of society. So, after pursuing my Ph.D., I want to serve my community, teach, produce valuable research, and work for the betterment of global institutions. I would love to help meet the goals of the Challey Institute and make this world a better place. 
+ The Challey Institute hosts many prominent speakers. You recently had an opportunity to meet with Sam Peltzman, a distinguished economist from the University of Chicago. What did you learn from Dr. Peltzman? How did his visit enhance your NDSU experience?  
+This initiative [Distinguished Speaker Series] is so good for students and the institution. It was a great opportunity to meet Sam Peltzman, a renowned researcher and a great person. He has worked on smart transportation—so after I learned that, I was very interested to talk to him. His ideas provided a multi-dimensional perspective that will be helpful in my research. It was really fun, and these initiatives encourage and motivate students.
+ How does funding like the Mancur Olson Graduate Fellowship support you in pursuing your dream at NDSU?  
+The fellowship provides financial support, learning opportunities, and networking possibilities. We all know that living in the U.S. is expensive. As an international student, you face multiple financial issues, especially in your first year. You have to pay for things like accommodations, utilities, and insurance. That’s why these initiatives really help students. These kinds of partnerships give you an initial boost so you can be on track, focused, and motivated to do great work. 
+The Sheila and Robert Challey Institute for Global Innovation and Growth aims to advance understanding in the areas of innovation, trade, institutions, and human potential to identify policies and solutions for the betterment of society. Learn more at www.ndsu.edu/challeyinstitute
 
 ---
 
 
-# Dahi Phulki Recipe | Delhi's Famous Chhach Phulki Recipe
+# Account Suspended
 
-**Score:** 0.16035839915275574
-**Author:** Mantasha
-**Published:** 2019-10-04T00:00:00.000Z
-**URL:** https://zaykarecipes.com/eng/dahi-phulki-recipe
+**Score:** 0.14814873039722443
+**Author:** 
+**Published:** 
+**URL:** https://chalomannoakhali.com/cgi-sys/suspendedpage.cgi
 
-Dahi phulki recipe is different from dahi vada as the reason for change is there ingredients. Dahi phulki is a lighter food than dahi vada. It is made up of gram flour fritter which are then soaked in water or directly in curd. This is such a tasty recipe which I have mostly made at my home in afternoon. This recipe needs no accompaniment or you can also have it with rice. I prefer to have it as itself as it taste soo good. This is very famous in Delhi. Let’s know how to make it at home.
-Also read this recipe in hindi Dahi phulki banane ki vidhi 
-Necessary Ingredients Required For Dahi Phulki
-Gram flour = 100 gm
-Curd or yogurt = 500 gm
-Onion = 1, finely chopped
-Green chilies = 2, finely chopped
-Green coriander = 2 tbsp, finely chopped
-Turmeric powder = 1/2 tsp
-Baking powder = 2 pinch
-Red chili powder = 1/2 tsp
-Salt = as per taste
-Rock salt = as per taste
-Cumin seeds = 1 tsp
-Oil = for frying
- For Chutney 
-Dry whole red chilies = 5
-Garlic = 10 to 12 cloves
-Salt = as per taste
-Method Of Making In Easy Steps
- For making phulki or pakodi 
-Step 1
-Take a bowl, add gram flour in it.
-Step 2
-Add chopped onion, green chilies, green coriander, red chili powder, turmeric powder, baking soda and salt. Mix all the ingredients with gram flour.
-Step 3
-Now gradually add water and mix it well for making a thick batter from it. Keep it aside for 1o to 15 minutes.
-Step 4
-Now take a blender jar, add curd in it and blend it.
-Step 5
-Transfer it in a bowl.
-Step 6
-For making chutney, take a jar, add soaked red chilies, salt and garlic. Make a fine paste from it.
+This Account has been suspended.
+ Contact your hosting provider for more information.
  
-Step 7
-Add a spoon of chutney in a curd and mix it well. Keep it aside.
-Step 8
-Take a pan, pour oil in it and heat it up.
-Step 9
-Mix batter one more time and now with the help of your hand or spoon, pour small portion of batter in oil and make small balls of pakodi in it.
-Step 10
-Fry it until it turn golden brown in color. Also flip it if necessary.
- 
-Step 11
-Now add fried pakodi in a mixture of curd and make all the phulki or pakodi with the similar process.
-Step 12
-Take a tadka pan, add oil in it and heat it up. Add cumin seeds in it and let them splutter for few seconds.
-Step 13
-Give temper to dahi. Keep this dahi phulki aside for 1 hour, so that phulki becomes soft.
-Now your dahi phulki are ready, serve it with rice or as itself.
-Also Check
- Mixed vegetable raita recipe 
- Paneer (cottage cheese) dahi bade Recipe 
-||||I||||Skip to content
-Menu
-* Veg
-* Snacks
-* Baking
-* Daal
-* Puri and Paratha
-* Noodles
-* More
-+ Kids Recipes
-+ Non Veg Recipes
-+ South Indian Recipes
-Dahi Phulki Recipe | Delhi’s Famous Chhach Phulki Recipe
-04/10/2019 by Mantasha
-Dahi phulki recipe is different from dahi vada as the reason for change is there ingredients. Dahi phulki is a lighter food than dahi vada. It is made up of gram flour fritter which are then soaked in water or directly in curd. This is such a tasty recipe which I have mostly made at my home in afternoon. This recipe needs no accompaniment or you can also have it with rice. I prefer to have it as itself as it taste soo good. This is very famous in Delhi. Let’s know how to make it at home.
-Also read this recipe in hindi Dahi phulki banane ki vidhi
-Necessary Ingredients Required For Dahi Phulki
-* Gram flour = 100 gm
-* Curd or yogurt = 500 gm
-* Onion = 1, finely chopped
-* Green chilies = 2, finely chopped
-* Green coriander = 2 tbsp, finely chopped
-* Turmeric powder = 1/2 tsp
-* Baking powder = 2 pinch
-* Red chili powder = 1/2 tsp
-* Salt = as per taste
-* Rock salt = as per taste
-* Cumin seeds = 1 tsp
-* Oil = for frying
-For Chutney
-* Dry whole red chilies = 5
-* Garlic = 10 to 12 cloves
-* Salt = as per taste
-Method Of Making In Easy Steps
-For making phulki or pakodi
-Step 1
-Take a bowl, add gram flour in it.
-Step 2
-Add chopped onion, green chilies, green coriander, red chili powder, turmeric powder, baking soda and salt. Mix all the ingredients with gram flour.
-Step 3
-Now gradually add water and mix it well for making a thick batter from it. Keep it aside for 1o to 15 minutes.
-Step 4
-Now take a blender jar, add curd in it and blend it.
-Step 5
-Transfer it in a bowl.
-Step 6
-For making chutney, take a jar, add soaked red chilies, salt and garlic. Make a fine paste from it.
-Step 7
-Add a spoon of chutney in a curd and mix it well. Keep it aside.
-Step 8
-Take a pan, pour oil in it and heat it up.
-Step 9
-Mix batter one more time and now with the help of your hand or spoon, pour small portion of batter in oil and make small balls of pakodi in it.
-Step 10
-Fry it until it turn golden brown in color. Also flip it if necessary.
-Step 11
-Now add fried pakodi in a mixture of curd and make all the phulki or pakodi with the similar process.
-Step 12
-Take a tadka pan, add oil in it and heat it up. Add cumin seeds in it and let them splutter for few seconds.
-Step 13
-Give temper to dahi. Keep this dahi phulki aside for 1 hour, so that phulki becomes soft.
-Now your dahi phulki are ready, serve it with rice or as itself.
-Also Check
-* Mixed vegetable raita recipe
-* Paneer (cottage cheese) dahi bade Recipe
-Categories Chaat Recipes , Raita Recipes Tags chhach phulki recipe , dahi phulki recipe , how to make dahi phulki at home , mattha phulki recipe
-Achari Chana Daal Recipe | Chana Daal Tadka Recipe
-Sugar Paratha Recipe | How To Make Meetha Paratha
-Copyright © 2023 zaykarecipes.com All Rights Reserved.
+ ||||I|||| Account Suspended
+This Account has been suspended.
+Contact your hosting provider for more information.
 
 ---
 
 
-# Chakuli pitha
+# Chaldal.com
 
-**Score:** 0.15921030938625336
+**Score:** 0.1373838633298874
 **Author:** Contributors to Wikimedia projects
-**Published:** 2010-10-08T00:00:00.000Z
-**URL:** https://en.wikipedia.org/wiki/Chakuli_pitha
+**Published:** 2018-07-08T00:00:00.000Z
+**URL:** https://en.wikipedia.org/wiki/Zia_Ashraf
 
 From Wikipedia, the free encyclopedia
- 
-  Chakuli Pitha            Type  Rice cake    Course  Cake    Place of origin  India    Region or state  Odisha    Main ingredients  Rice flour, black gram, refined edible oil (ghee or mustard oil), salt            Media: Chakuli Pitha       
- Chakuli pitha (Odia: ଚକୁଳି ପିଠା) is a flat Odia rice-based fermented cake traditionally popular in the regions of Odisha state in India. [1]   [2]  It is prepared and served during festivals. [3]   [4] 
- Preparation  [  edit  ]  
-The dish is prepared using rice flour, black gram, refined edible oil (preferably ghee or mustard oil), and salt. [5]   [6] 
- Rice flour and black gram are mixed with warm water and salt to create the batter. The batter is covered and left to ferment for several hours. The batter is then poured on a skillet to create round flat cakes. [3] 
-  
-Chakuli pitha can be served on its own or paired with side dishes including guguni, sambhar, sugar, jaggery, tea, milk, vegetables, and mutton.
- Variation  [  edit  ]  
-There are multiple variations of chakuli pitha. Saru Chakuli (ସରୁ ଚକୁଳି) is a thinner variation similar to dosa. [3]  Burha Chakuli (ବୁଢ଼ା ଚକୁଳି) is a thicker variation made mixed with jaggery, paneer and grated coconut.
- See also  [  edit  ]  
-  Odia cuisine 
- Dosa  
+   (Redirected from Zia Ashraf)   
+ Chaldal.com            Native name  চালডাল   Company type  Private    Industry Food and grocery   Founded September 2013   Headquarters    Dhaka, Bangladesh      Area served  Dhaka, Chattogram, Narayanganj, Jashore, Khulna, Sylhet, Rajshahi, Gazipur    Key people  Waseem Alim, CEO; Zia Ashraf, COO; Tejas Viswanath, CTO   Services Grocery Delivery    Number of employees  2300+ (2023)   Website   chaldal.com     
+ Chaldal.com (Bengali: চালডাল.কম), founded in 2013, is a grocery e-commerce platform in Bangladesh. The company offers its services via a website and mobile apps for Android and iOS. “Chaldal” is a Bengali word colloquially used to refer to "groceries" (Chal means  Rice , and Dal means  Pulses ). Chaldal started as an online grocery service provider and has since gone on to redefine supply chains, ease commodity trade, support refugee camps, and reduce food wastage by building technology into the supply chain, all the way back to the farms. [1] 
+ Chaldal operates in Dhaka, Narayanganj, Chittagong, Jashore, Khulna, Sylhet, and Rajshahi. As of February 2022, it has a total of 28 active warehouses. [2] 
+ Description  [  edit  ]  
+Chaldal was founded by Waseem Alim (Founder and CEO), Zia Ashraf (Founder and COO), and Tejas Viswanath (Founder and CTO). [3]  The company initially started with one warehouse/ office in Gulshan, Dhaka while offering next day delivery. [4] 
+ In 2017, Chaldal received financing from IFC (International Finance Corporation), World Bank. The company has also received funding from other private, national and international venture capitalists through different series of investments. [5]   [6]   [7] 
+ Chaldal has a website and Android and iOS app for smartphone users where users can order products. [8]  Orders can also be phoned in. Customers can choose their preferred time slots for delivery.
+ Warehouses  [  edit  ]  
+To ensure one-hour delivery, Chaldal maintains 25 different micro warehouses across Dhaka, Chattogram, Narayanganj, and Jashore. In Dhaka, the warehouses are situated in Hajaribag, Banani, Rajarbag, Mirpur, Uttara, Dhalibari, Kallyanpur, Rampura, Jatrabari, Fakirbari, Panthapath, Mohammadpur, Badda, Uttar khan, and Shewrapara. Its primary warehouse is in Rampura. The company also maintains a perishables processing warehouse in Mohakhali for its vegetables, dairy, fruits, etc.
+ Achievement  [  edit  ]  
+In 2020 Chaldal was announced as the best e-commerce company of the year at Digital World 2020 for serving its customers loyally during the COVID-19 crisis. It was ranked ninth in the world's best 500 startups in 2015. The ranking was produced by Forbes Magazine's startup assister ‘Y Combinator’. [9]   [10]   [11]  It has also received The Daily Star E-Business Of The Year 2017. [12]  Its name comes up in FT/IFC Transformation Business Award 2018. [13] 
  References  [  edit  ]  
  
-   ^    Prasant Kumar Acharya (2003).  Sacred Complex of Budhi Santani  (2003 ed.). New Delhi: Concept. p. 228. ISBN  978-8-18069-049-5 .   
-   ^    Prakash Tamang, Jyoti (2020). Ethnic Fermented Foods and Beverages of India: Science History and Culture. Springer Publisher. p. 657.   
- ^    a       b       c      Joshi, V.K. (2016). Indigenous Fermented Foods of South Asia. CRC Press. pp. 408–410.   
-   ^     Asian Folklore Studies. Nanzan University Institute of Anthropology. pp. 241–243.   
-   ^     "Buddha Chakuli - The typical Odia Pitha - eOdisha.org - latest Odisha News - Business - Culture -Art - Travel". eodisha.org . Retrieved 29 September 2016.   
-   ^     Journal of the Indian Anthropological Society. The University of Michigan. 2008. p. 800.   
+   ^    Hasan, Mahmudul (2022-01-31). "Chaldal on expansion spree". The Daily Star . Retrieved 2022-03-10 .   
+   ^    Hasan, Mahmudul (2022-01-31). "Chaldal on expansion spree". The Daily Star . Retrieved 2022-03-10 .   
+   ^     "The Chaldal story: They dreamt of serving 30 orders a day. Now they are eyeing one lakh daily orders". The Business Standard. 2022-03-03. Retrieved 2022-03-10 .   
+   ^     "The Chaldal story: They dreamt of serving 30 orders a day. Now they are eyeing one lakh daily orders". The Business Standard. 2022-03-03. Retrieved 2022-03-10 .   
+   ^     "IFC To Invest Up To $3m In Chaldal: Deal Street Asia". Future Startup . Retrieved 8 July 2018.   
+   ^     "IFC may invest up to $3m in Bangladeshi online grocery firm Chaldal". DEALSTREETASIA. Bhawna Gupta. Retrieved 8 July 2018.   
+   ^    Bansal, Varsha (2017-11-17). "Global investors heading to India are beginning to make a stopover at Bangladesh". Varsha Bansal. India times. Retrieved 8 July 2018.   
+   ^     "Android Apps of Chaladal.com". banglanews24. 2015-08-25. Retrieved 8 July 2018.   
+   ^     "Online grocery shop Chaldal among world's top ten startup 2015". The Daily Ittefaq. 2015-12-31. Archived from the original on 9 July 2018. Retrieved 8 July 2018.   
+   ^     "Chaldal.com makes Y Combinator's Top Ten List". The Daily Star. 2016-01-18. Retrieved 8 July 2018.   
+   ^     "Chaldal ranks 9th on Y Combinator survey". Dhaka Tribune. 2016-01-03. Retrieved 8 July 2018.   
+   ^     "Seven individuals and organizations received ICT Awards Daily Star". The Daily Ittefaq. 2017-12-29. Retrieved 8 July 2018.   
+   ^     "In the International Awards list, Bangladesh's Chaldal.com". The Daily Jugantor. 2018-05-07. Retrieved 8 July 2018.   
  
-     
-Wikimedia Commons has media related to  Chakuli .
-
----
-
-
-# Dal bhat
-
-**Score:** 0.15903247892856598
-**Author:** Contributors to Wikimedia projects
-**Published:** 2006-01-20T00:00:00.000Z
-**URL:** https://en.wikipedia.org/wiki/Dal_bhat
-
-From Wikipedia, the free encyclopedia
- 
-  Dal bhat          Dal bhat thali set     Alternative names Dal chawalDhal bhaat   Course Meal   Place of origin South Asia   Region or state South Asia   Associated cuisine   India, Bangladesh, Nepal, Bhutan, Sri Lanka, Trinidad and Tobago, Guyana, Suriname, Jamaica, Mauritius, Fiji    Main ingredients Rice, vegetable, lentils, chutney or achar           Media: Dal bhat       
- Dāl bhāt (Nepali: दाल भात, Hindi: दाल भात, Bengali: ডাল ভাত, Gujarati: દાળ ભાત, Marathi: डाळ भात, Assamese: দাইল ভাত dāil bhat / দালি ভাত dāli bhāt, Urdu: دال بھات) is a traditional meal from the Indian subcontinent. It consists of steamed rice and a cooked lentil or other pulses stew called  dal . It is a staple food in these countries. Bhāt or chāwal means "boiled rice" in a number of Indo-Aryan languages.
- At higher elevations in Nepal, above 6,500 feet (2,000 m), where rice does not grow well, other grains such as maize, buckwheat, barley or millet may be substituted in a cooked preparation called dhindo or atho in Nepal. Bhat may be supplemented with roti in Nepal (rounds of unleavened bread).
- Dal may be cooked with onion, garlic, ginger, chili, tomatoes, or tamarind, in addition to lentils or beans. It always contains herbs and spices such as coriander, garam masala, cumin, and turmeric. Recipes vary by season, locality, ethnic group and family.
- Dal bhat is often served with vegetable tarkari or torkari ( तरकारी  in Nepali, তরকারি in Bengali) – a mix of available seasonal vegetables. It is also called dal bhat tarkari (दाल भात तरकारी) in Nepali and Bengali (ডাল ভাত তরকারি). A small portion of pickle (called achar or loncha) is sometimes included. In Bengal (West Bengal and Bangladesh) dal bhat may accompany machh bhaja (মাছ ভাজা - fried fish).
-     
-Nepali Khana - Dal Bhat Tarkari
-     
-Nepalese-style dal bhat
-     
-Traditional dal bhat thali
-     
-Dal bhat served with eggplant dish and salad.
- See also  [  edit  ]  
-  Assamese cuisine 
- Awadhi cuisine 
- Bengali cuisine 
- Bhojpuri cuisine 
- Bihari cuisine 
- Caribbean cuisine 
- Fijian cuisine 
- Gujarati cuisine 
- Indian cuisine 
- Marathi cuisine 
- Nepalese cuisine 
- Odia cuisine 
- Sikkimese cuisine 
- Trinidad and Tobago cuisine 
- Thali  
- References  [  edit  ]  
-   "Dal Bhat". 25 April 2012.    
  External links  [  edit  ]  
-  Dal Bhat recipe Archived 2019-06-02 at the Wayback Machine 
- 5 dishes that you thought were Indian-origin, but actually aren't – article in India Today
- From Momos to Dal Bhat: Discovering 12 Must-Try Nepali Dishes – online article
+    Official website   
+ Chaldal.com on Facebook 
+ The 10 Best Online Grocery Shops In Bangladesh
 
 ---
 
 
-# दाल बाटी बनाने की सिंपल, सरल रेसिपी Dal Bati Recipe in Hindi
+# Hindu,Khandayat,Oriya Bride Bhubaneshhwar India Matrimony
 
-**Score:** 0.15871131420135498
-**Author:** Mehjabi Naz
-**Published:** 2016-12-19T00:00:00.000Z
-**URL:** https://zaykarecipes.com/dal-bati-recipe.html
+**Score:** 0.1301814317703247
+**Author:** 
+**Published:** 2016-04-01T00:00:00.000Z
+**URL:** https://www.matrimonialsindia.com/profile/MI-945810-odia-hindu-khandayat-bride
 
-Dal Bati Recipe in Hindi दाल बाटी (Dal bati) एक पारंपरिक राजस्थानी व्यंजन (rajasthani food) है जो की पुरे भारत में उसके बढ़िया स्वाद के कारण लोकप्रिय है। इसमें घी से लथपथ बाटी को पंचमेल दाल (पांच प्रकार की दाल से बनी मिश्र दाल), लहसून की चटनी और चूरमा (Churma) के साथ सर्व किया जाता है। पारंपरिक तरीके में तो बाटी को सीधे गर्म लकड़ी के कोयलों के ऊपर सेंका जाता है लेकिन इस तरीके से घर पर बाटी बनाना काफी मुश्किल है।
-हालांकि, इसका यह मतलब नहीं है कि आप घर पर दाल बाटी का मज़ा ही नहीं उठा सकतें। zayka recipes के जरिए हम घर पर कैसे बहुत ही आसानी से बाटी बनाते है वो दिखाया गया हैं आप या तो ओवन का उपयोग कर सकते है या फिर तंदूर का, और अगर आपके पास ओवन या तंदूर दोनों में से कुछ भी नहीं हैं तो आप बाटी को तेल में तलकर बना सकते है।
-आवश्यक सामग्री – necessary ingredients – Dal Bati Recipe in Hindi
-गेहूं का आटा = एक कप
-सूजी = 1/4 कप
-बेकिंग सोडा = एक चुटकी
-घी या तेल = 4 टेबलस्पून पिघला हुआ घी, बाटी डुबोने के लिए
-नमक = स्वादअनुसार
-दूध या पानी = जरूरत के अनुसार
-पंचमेल दाल = परोसने के लिए
-विधि – how to make Dal Bati Recipe in Hindi
-ओवन को 190 डिग्री सेल्सियस (375 डिग्री फारेनहाइट) पर प्रिहीट करें। एक परात में गेहूं का आटा छान लें और इसमें सूजी, बेकिंग सोडा, 4 टेबलस्पून घी, (या खाना पकाने का तेल) और नमक डालें (और अगर आप चूरमा बनाने के लिए बाटी बना रहे है तो फिर नमक ना डालें)।
-सारी सामग्री को खूब अच्छी तरह से मिक्स कर ले। अब इसमें थोड़ा-थोड़ा करके दूध डालें और सख्त आटा गूँथ लें। यह पराठे के आटे से थोड़ा सख्त होना चाहिए अब इसे ढककर 15 से 20 मिनट के लिए रख दे।
+Mobile No. &amp; Email Verified
+MI-945810
+Profile Created for Self	
+   34 years/ 5' 05" (165 cm) 
+   Professional Degree 
+   Never Married 
+   
+HR, Admin &amp; Managers 
+     Oriya   
+  Lives in India, Odisha, Bhubaneshhwar 
+   Hindu, Khandayat 
+Success Stories
+Daksha Thakur and Uday Rathore
+We both were in India during December and January, and had an opportunity to meet both the families. Because of your help and support, this relationship seems very promising f...Read more 
+Mansi and Puneet
+My daughter Mansi marriage done through yours efforts. Thank for suggesting good family for my daughter.Read more 
+Anayika Sharma and Anand Sharma
+I am very happy to inform you that my brother-in-law's alliance has been finalized through your team. For this, I am very, very thankful to Ms. Amarjeet. If I may give my opin...Read more 
+Amanpreet and Khush
+Inderjeet Kaur had organized conference call with one girl her name is Amanpreet . now my marriage has been fixed with her and I'm happy with Inderjeet service.Read more 
+Yasmin and Jafar
+I would like to appreciate you and your work for helping me to connect with your web site and finding for me a best suitable match as my life partner from your matrimonial s...Read more 
+Jyoti and Nilesh Ramchurn
+This side Nilesh Ramchurn and I was ur member and am happy with the service u connect my confidence with Jyoti my wife now and then we planed to meet with each other and after...Read more 
+Bincy and Jacob
+I would like to say big thanks to you for my match. Thanks for helping me to find a suitable match.Read more 
+Chuppymol Alias and Jijo Joseph
+I would like to say my thanks for my match. Thanks for helping me to find a suitable match. We all are thankful for your help.Read more 
+Sini and Jince K Joy
+I would like to say my thanks for my match. Thanks for helping me to find a suitable match. We all are thankful for your help for Sini and Jince for their successful marriage...Read more 
+Ashni Mohan and Ferzil Babu
+I would like to say my thanks for my sister's wedding. Your matchmaking team worked to find her a suitable match. We are all thankful for your help for Ashni and Ferzil for th...Read more 
+About MI-945810
+I am a Simple Girl with a Good Personality. I Reside in a Beautiful City of India and My Caste is Khandayat.
+Contact Details
+ Contact Number
++91-9776XXXXXX
+ Email ID
+xxxxxxxxxx@gmail.com
+Basic Info
+Age / Height
+34 Yrs / 5' 05" (165 cm)	
+Date of Birth
+30-Nov-1989
+Gender
+Female	
+Marital Status
+Never Married	
+Have Children
+No Information Available	
+Religion
+Hindu	
+Caste
+Khandayat	
+Sub Caste
+Not Specified	
+Gothra / Gothram
+Not Specified	
+Mother Tongue
+  Oriya  	
+Features
+Not Specified	
+Complexion
+Wheatish	
+Special Cases
+None	
+Blood Group
+B+	
+Body Type
+Slim	
+Body Weight
+54 Kg	
+Location
+India, Odisha, Bhubaneshhwar	
  
-अब आटे को 8 बराबर के भागों में बाँट ले और उन्हें गोले का आकर दें। अगर आटे के गोले में कुछ दरारें हैं तो इसकी चिंता ना करे यह बिलकुल सामान्य है। हर एक गोले को बारी-बारी से अपनी हथेलियो के बीच में दबाएं और इन्हें एक बेकिंग ट्रे पर रख दे
-बेकिंग ट्रे को पहले से गरम ओवन में रखें और 375 F (190 C) पर पकने दे जब नीचे की सतह हल्के भूरे रंग की हो जाएं तो बेकिंग ट्रे को बाहर निकाले, इसमें करीब 12 से 15 मिनट का समय लगेगा।
-अब प्रत्येक बाटी को पलटे और फिर से बेकिंग ट्रे ओवन में रख दे इन्हें 10 से 12 मिनट के लिए या जब तक की नीचे की सतह सुनहरे भूरे रंग की हो जाए तब तक पकने दे। अब ट्रे को ओवन में से बाहर निकाले।
+Background and Religious Details
+Birth Time
+Not Specified	
+Place of Birth
+Not Specified	
+Country Of Birth
+Not Specified	
+Sun Sign
+Sagittarius [Dhanu]	
+Nakshatra
+Not Specified	
+Manglik Status
+Don't Know	
  
-अब एक छोटी सी कटोरी में पिघला हुआ घी लो और प्रत्येक बाटी को घी में डुबाके एक थाली में रखे (आप बाटी को घी में डूबाने के बदले ब्रश से भी बाटी के ऊपर घी लगा सकते है)अब बाटी को तोड़े और उसके ऊपर थोड़ा सा घी डालें। और उसके उपर पंचमेल दाल डालें और राजस्थानी चूरमा, लहसुन की चटनी और पापड़ के साथ सर्व करे।
-सुझाव
-बाटी को गैस तंदूर में कैसे पकाएं?
-गैस तंदूर को अच्छे से गर्म करें। तंदूर की ग्रिल पर कच्ची बाटी रखे और 20 से 25 मिनट के आसपास मीडियम आंच पर पकाइएं और दोनों तरफ से अच्छे से पके इसके लिए बीच में एक बार बाटी को पलटें।
-ओवन या तंदूर के बिना बाटी कैसे बनाएं?
-बाटी को मीडियम कम आंच पर तेल में दोनों तरफ से हल्के सुनहरे भूरे रंग की हो जाने तक तले। क्यूंकि बाटी मोटी होती हैं इसे अंदर से पकाने के लिए अधिक समय लगेगा, इसलिये इसे मीडियम (धीमी) आंच पर ही पकाइये।
-विभिन्न कंपनी के ओवन में अलग-अलग सेटिंग होती है, तो इसके अनुसार पकाने का समय थोड़ा कम या ज्यादा हो सकता है।
-अगर हो सके तो कुरकुरी बाटी बनाने के लिए आटा गूंथते वक्त तेल के बदले में घी का उपयोग करें। और घी की मात्रा कम ना करें।
-सर्व करने का तरीका
-बाटी को छोटे-छोटे टुकड़ों में तोड़े और उसके ऊपर थोड़ा सा घी और पंचरतन दाल (पंचमेल दाल) डालके एक पौष्टिक राजस्थानी भोजन के रूप में चूरमा के साथ सर्व करे।
- मटर पनीर कुलचा बनाने की आसान विधि 
- टेस्टी साउथ इंडियन सांभर बनाने की विधि 
- बनाएं स्वादिष्ट पंचमेल दाल 
-keyword: dal bati recipe in hindi, dal bati banane ki vidhi, dal bati banane ka tarika, rajasthani dal bati ki recipe, dal bati kaise banate hain
-||||I||||Skip to content
-Menu
-* होम
-* शाकाहारी
-* स्नैक्स
-* बेकिंग
-* दाल रेसिपी
-* पुरी और पराठा
-* नूडल्स
-* नाश्ता रेसिपी
-* अचार
-* चाट
+Location
+Immigration Status
+Permanent Resident	
+Country Residence
+India	
+Citizenship
+India	
+City
+Bhubaneshhwar	
+Education and Profession
+Education
+Professional Degree	
+Job Details
+********	
+Status
+********	
+Working With
+********	
+Annual Income
+********	
+Specific Degree
+********	
+Family Details
+Father
+Retired	
+Family Values
+********	
+Family Status
+********	
+Mother
+********	
+Family Type
+********	
+Native Place
+********	
+No of Brothers
+********	
+No of Sisters
+********	
+ 
+Lifestyle, Interests and more 
+Smoking
+No	
+Take Hard Drinks
+No	
+Eating Habit
+Vegetarian	
+House Ownership
+Not Specified	
+Living Situation
+Not Specified	
+	
+Partner Preference
+Age
+33 to 35 Years	
+Height
+5' 09" (175 cm) to 6' 00" (182 cm)	
+Marital Status
+Never Married	
+Religion
+Hindu	
+Caste
+Doesn't Matter	
+Mother Tongue
+Odia	more   
+Manglik Status
+Doesn't Matter	
+Horoscope Required
+Doesn't Matter	
+Special Case
+None	
+Country Living in
+UK	more   
+State Living in
+Doesn't Matter	
+Citizenship
+Doesn't Matter	
+Education
+Doesn't Matter	
+Occupation
+Doesn't Matter	
+Body Type
+Athletic	more   
+Complexion
+Doesn't Matter	
+Eating Habit
+Doesn't Matter	
+Smoking Habit
+No	
+Drinking Habit
+No	
+ Disclaimer : Matrimonialsindia.com is exclusively meant for marriage seekers and not for dating, casual relationships, commercial use, or illegal activities. Users must have a genuine intent for a matrimonial alliance. 
+All Rights Reserved - MatrimonialsIndia.Com (2000-2024)
+Web Design by WeblinkIndia.NET
+
+---
+
+
+# Difference-makers: Itedal Shalabi and Nareman Taha. South suburban women help link Arab Americans to social services
+
+**Score:** 0.12966756522655487
+**Author:** Zak Koeske
+**Published:** 2018-10-16T00:00:00.000Z
+**URL:** https://www.chicagotribune.com/suburbs/daily-southtown/ct-sta-ent-volunteer-koeske-1021-story.html
+
+As the children of immigrants, Itedal Shalabi and Nareman Taha have spent their lives straddling the line between two worlds. Born in the Middle East, but raised mostly in the United States, Shalabi and Taha have made a career out of bridging the cultural gap between East and West, Arab and American, traditional and modern. The women, who run an Arab American social service agency in the southwest suburbs, help clients navigate our country’s complex benefits system, which can be confusing even for native English speakers familiar with American institutions and culture. “The Eastern part of the world is about ‘my family.’ I am the last person to worry about what I want. I put my parents, my siblings, my husband, my kids all ahead of me,” said Taha, a 42-year-old Palos Park resident of Palestinian descent. “Now you’re coming to the West, I’m putting myself first and everybody behind me. How do you bring both worlds together?” Shalabi, 50, of Bridgeview, and Taha founded Arab American Family Services in early 2001, shortly after getting to know one another while working for a behavioral health company they felt was doing a disservice to the Arab community. “They weren’t really invested in the community,” Taha said. “It was, for them, a moneymaking business that we said ‘we didn’t want anything to do with this.’ But we did want the service and the love and the pride and the passion, so we said … ‘let’s just start our own business.’ “(Our parents) didn’t have an agency like ours to come in and say ‘how do I navigate through the system?’” Shalabi said. Seventeen years after its founding, Arab American Family Services serves nearly 13,000 families throughout the Chicagoland area and employs more than 30 staff members. In addition to helping connect families with benefits and services, the organization offers programming in areas like domestic violence, mental health, immigration and elder care. The female-led agency’s ascent has faced some push back from more conservative elements within the Arab community that haven’t always been comfortable with women holding leadership positions. “We told the men we want a seat at the table, they didn’t know what the heck to do with us. They still don’t know what to do with us,” Shalabi said. “We’re strong women and we’re independent and we want to make a difference in our community, too.” She said that, from the beginning, the agency hasn’t wavered in doing what it believes is in the best interest of the community and future generations of Arab Americans, even if it has meant bringing issues like domestic violence, child abuse and mental health to the forefront. “It’s always like we were coming at issues that, while everybody wanted to sweep it under the carpet, we were sweeping it right back into the mainstream,” Shalabi said. [ MORE: Difference-makers throughout the Chicago suburbs ]    Nareman Taha, co-founder of Arab American Family Services and an organizer of a rally at the Palos Township Office on July 10, 2017, calls for the resignation of Trustee Sharon Brannigan over remarks she made on Facebook about Islam, Muslims and Middle Eastern students (Zak Koeske / Daily Southtown)    While the women said they’ve butted heads with local imams and community members who hold more patriarchal views, they recognize the importance of meeting people where they’re at, without passing judgment. “Everyone has their perspective and everyone has a different outlook on how they take on solutions,” Taha said. Being able to approach their clients’ issues from a place of understanding has enabled the women to bridge the chasm that can exist between Arab and American cultures, they said. In one recent instance, after the agency placed a “promiscuous” woman in a domestic violence shelter because she feared what her father would do to her, the man came seeking information about his daughter’s whereabouts. While Shalabi said she refused to reveal the daughter’s location, she understood the father’s perspective and treated him as a concerned parent and not an offender. “Those are the kinds of things where mainstream says you shouldn’t talk to a perpetrator, but we don’t look at him as a perpetrator in that stand, (but as) someone who’s a victim of his own culture and his own lack of knowledge and his own view of ‘how could my daughter do this,’” she said. Shalabi’s introduction to social work arose out of a situation where traditional Arab culture collided with the American legal system. After high school, she’d been living in an apartment building where, as one of the only English speakers, she served as a translator for many of the other tenants. When the Department of Children and Family Services removed the son of one of her neighbors after the woman burned the boy with a heated spatula, Shalabi got involved, attending meetings between the woman and the agency. “I ended up going with her to a lot of these sessions and a lot of these trainings,” she said. “Everybody would say, ‘Are you her social worker?’ I’m like, ‘What the hell is a social worker?’”    Daily Southtown   Twice-weekly News updates from the south suburbs delivered every Monday and Wednesday  The experience moved her to enroll in college, where, in between raising three boys, she studied social work and eventually graduated from the University of Illinois at Chicago. Taha, who also attended UIC, had been on the pre-med path there until taking a neuroscience class that inspired her to switch to psychology. After finishing school, her best friend — who happened to be Shalabi’s cousin — put the women in contact. A short time later, they launched Arab American Family Services with the goal of giving community members a place to get culturally-sensitive social assistance. Shalabi credits her and her partner’s embrace of client-centered care — which she said can be difficult for some culturally conservative Arabs to accept and understand — with their upbringings. “Both of us have open-minded fathers,” she said. The women also take pride in knowing that community members view them as strong female role models, Taha said. “So many people will come and say, ‘I tell my daughters to look to you two,’” she said. “People look to us as the model of Arab, Muslim women who have really built something for the community and who carry our identity, our culture, our faith with such pride and respect.” ||||I|||| Advertisement
+Daily Southtown
+Difference-makers: Itedal Shalabi and Nareman Taha. South suburban women help link Arab Americans to social services
+By Zak Koeske
+Chicago Tribune
+Oct 16, 2018 at 6:00 am
+Expand
+Itedal Shalabi, left, and Nareman Taha run Arab American Family Services, a Bridgeview-based social service agency that, since its founding in 2001, has catered to the unique cultural needs of Arab Americans. (Zak Koeske / Daily Southtown)
+As the children of immigrants, Itedal Shalabi and Nareman Taha have spent their lives straddling the line between two worlds.
+Born in the Middle East, but raised mostly in the United States, Shalabi and Taha have made a career out of bridging the cultural gap between East and West, Arab and American, traditional and modern.
+Advertisement
+The women, who run an Arab American social service agency in the southwest suburbs, help clients navigate our country’s complex benefits system, which can be confusing even for native English speakers familiar with American institutions and culture.
+“The Eastern part of the world is about ‘my family.’ I am the last person to worry about what I want. I put my parents, my siblings, my husband, my kids all ahead of me,” said Taha, a 42-year-old Palos Park resident of Palestinian descent. “Now you’re coming to the West, I’m putting myself first and everybody behind me. How do you bring both worlds together?”
+Advertisement
+Shalabi, 50, of Bridgeview, and Taha founded Arab American Family Services in early 2001, shortly after getting to know one another while working for a behavioral health company they felt was doing a disservice to the Arab community.
+“They weren’t really invested in the community,” Taha said. “It was, for them, a moneymaking business that we said ‘we didn’t want anything to do with this.’ But we did want the service and the love and the pride and the passion, so we said … ‘let’s just start our own business.’
+“(Our parents) didn’t have an agency like ours to come in and say ‘how do I navigate through the system?’” Shalabi said.
+Seventeen years after its founding, Arab American Family Services serves nearly 13,000 families throughout the Chicagoland area and employs more than 30 staff members.
+In addition to helping connect families with benefits and services, the organization offers programming in areas like domestic violence, mental health, immigration and elder care.
+Advertisement
+The female-led agency’s ascent has faced some push back from more conservative elements within the Arab community that haven’t always been comfortable with women holding leadership positions.
+“We told the men we want a seat at the table, they didn’t know what the heck to do with us. They still don’t know what to do with us,” Shalabi said. “We’re strong women and we’re independent and we want to make a difference in our community, too.”
+She said that, from the beginning, the agency hasn’t wavered in doing what it believes is in the best interest of the community and future generations of Arab Americans, even if it has meant bringing issues like domestic violence, child abuse and mental health to the forefront.
+“It’s always like we were coming at issues that, while everybody wanted to sweep it under the carpet, we were sweeping it right back into the mainstream,” Shalabi said.
+[ MORE: Difference-makers throughout the Chicago suburbs ]
+Nareman Taha, co-founder of Arab American Family Services and an organizer of a rally at the Palos Township Office on July 10, 2017, calls for the resignation of Trustee Sharon Brannigan over remarks she made on Facebook about Islam, Muslims and Middle Eastern students (Zak Koeske / Daily Southtown)
+While the women said they’ve butted heads with local imams and community members who hold more patriarchal views, they recognize the importance of meeting people where they’re at, without passing judgment.
+Advertisement
+“Everyone has their perspective and everyone has a different outlook on how they take on solutions,” Taha said.
+Being able to approach their clients’ issues from a place of understanding has enabled the women to bridge the chasm that can exist between Arab and American cultures, they said.
+In one recent instance, after the agency placed a “promiscuous” woman in a domestic violence shelter because she feared what her father would do to her, the man came seeking information about his daughter’s whereabouts.
+While Shalabi said she refused to reveal the daughter’s location, she understood the father’s perspective and treated him as a concerned parent and not an offender.
+“Those are the kinds of things where mainstream says you shouldn’t talk to a perpetrator, but we don’t look at him as a perpetrator in that stand, (but as) someone who’s a victim of his own culture and his own lack of knowledge and his own view of ‘how could my daughter do this,’” she said.
+Shalabi’s introduction to social work arose out of a situation where traditional Arab culture collided with the American legal system.
+Advertisement
+After high school, she’d been living in an apartment building where, as one of the only English speakers, she served as a translator for many of the other tenants.
+When the Department of Children and Family Services removed the son of one of her neighbors after the woman burned the boy with a heated spatula, Shalabi got involved, attending meetings between the woman and the agency.
+“I ended up going with her to a lot of these sessions and a lot of these trainings,” she said. “Everybody would say, ‘Are you her social worker?’ I’m like, ‘What the hell is a social worker?’”
+Daily Southtown
+Twice-weekly
+News updates from the south suburbs delivered every Monday and Wednesday
+By submitting your email to receive this newsletter, you agree to our Subscriber Terms & Conditions and Privacy Policy.
+>
+The experience moved her to enroll in college, where, in between raising three boys, she studied social work and eventually graduated from the University of Illinois at Chicago.
+Taha, who also attended UIC, had been on the pre-med path there until taking a neuroscience class that inspired her to switch to psychology.
+After finishing school, her best friend — who happened to be Shalabi’s cousin — put the women in contact. A short time later, they launched Arab American Family Services with the goal of giving community members a place to get culturally-sensitive social assistance.
+Advertisement
+Shalabi credits her and her partner’s embrace of client-centered care — which she said can be difficult for some culturally conservative Arabs to accept and understand — with their upbringings.
+“Both of us have open-minded fathers,” she said.
+The women also take pride in knowing that community members view them as strong female role models, Taha said.
+“So many people will come and say, ‘I tell my daughters to look to you two,’” she said. “People look to us as the model of Arab, Muslim women who have really built something for the community and who carry our identity, our culture, our faith with such pride and respect.”
+Advertisement
+LATEST
+Nation & World
+Powerful earthquake rocks Turkey and Syria, killing more than 1,300 with death toll expected to rise
+35m
+Chicago Bears
+Chicago Bears roster breakdown: How every offensive player did in 2022 — and their contract status going forward
+37m
+Commentary
+Geoff LaMear: A military strike would not guarantee a nuclear-free Iran
+1h
+CONNECT
+TRIBUNE PUBLISHING
+* New York Daily News
+* Orlando Sentinel
+* The Morning Call of Pa.
+* Daily Press of Va.
+* Studio 1847
+* The Baltimore Sun
+* Sun Sentinel of Fla.
+* Hartford Courant
+* The Virginian-Pilot
+COMPANY INFO
+* Careers
+* Help Center
+* Terms of Service
+* Contact us
+* Manage Web Notifications
+* Media kit
+* California Notice at Collection
+* Notice of Financial Incentive
+* About us
+* Privacy Policy
+* Archives
+* Local print ads
+* Chicago Tribune Store
+* Site Map
+* Do Not Sell/Share My Personal Information
+* Cookie Policy
+* Cookie Preferences
+Copyright © 2023, Chicago Tribune
+
+---
+
+
+# Microsoft Word - 2018 Researcher Profiles - 9.9.18.docx
+
+**Score:** 0.1275915950536728
+**Author:** 
+**Published:** 
+**URL:** https://sodi.org/wp-content/uploads/2018/09/2018-Researcher-Profiles-9.9.18.pdf
+
+Researcher Profiles
+www.sodi.org 1
+Marianne Bertrand
+Chris P. Dialynas Professor of Economics
+University of Chicago Booth School of Business
+I am an applied micro-economist working in the fields of
+labor economics, corporate finance, and development
+economics, with a special focus on issues of
+discrimination and diversity.
+I am a Co-Director of Chicago Booth’s Social Enterprise
+Initiative, Director of the Poverty Lab at the UChicago
+Urban Labs, and I serve on the Board of Directors for the
+Abdul Latif Jameel Poverty Action Lab. I am a Research
+Fellow at the National Bureau of Economic Research, the
+Center for Economic Policy Research, and the Institute for
+the Study of Labor.
+Selected Findings from Past Work
+Are Emily and Greg More Employable Than Lakisha and Jamal? A Field Experiment on Labor Market
+Discrimination
+• White names receive 50 percent more callbacks for interviews.
+• Callbacks are also more responsive to resume quality for White names than for AfricanAmerican ones.
+Breaking the Glass Ceiling? The Effect of Board Quotas on Female Labor Market Outcomes in
+Norway
+• White names receive 50 percent more callbacks for interviews.
+• Callbacks are also more responsive to resume quality for White names than for AfricanAmerican ones.
+Researcher Profiles
+www.sodi.org 2
+Rita Biagioli
+Associate Director, Behavioral Insights Initiative
+University of Chicago Booth School of Business
+I use mixed methods research to explore the different
+ways in which people with different backgrounds and in
+different socio-cultural contexts experience and engage
+with the world. In my current role working with the
+University of Chicago Diversity & Inclusion Initiative and
+the Harry L. Davis Center for Leadership in Booth, I think
+about how we can translate behavioral science research
+into actionable insights in order to engineer beneficial
+experiences. I recently received my PhD in the
+Department of Comparative Human Development at the
+University of Chicago in psychological anthropology and
+cultural psychology. I've done extensive fieldwork in India,
+and have additionally worked on research projects for
+corporate clients.
+Selected Findings from Past Work
+I've previously explored the effects of 1) where someone grew up and 2) immigration on the
+ways in which those individuals formulate overarching schemas and worldviews, particularly
+in relation to the physical world. More specifically, looking at four groups- Hindus in Kolkata
+and their adult children, and Hindus from Kolkata but living in the NYC area and their adult
+children- I concluded that, for these groups, an understanding of physical world as relational
+was important and potentially necessary for understanding divinity as physical. I then teased
+out circumstances under individuals came to have this worldview or not to have it.
+In line with work I've done on experiential education, I'm currently working on a project that
+investigates the affects of teaching behavioral science concepts in an interactive workshop
+format on inclusion, both as it is individually internalized and demonstrated as well as how it
+might become an expected group norm within groups that experienced the workshop
+together.
+Researcher Profiles
+www.sodi.org 3
+Iris Bohnet
+Professor of Public Policy
+Director, Women and Public Policy Program
+Kennedy School of Government, Harvard University
+A behavioral economist, I combine insights from
+economics and psychology to improve decision-making in
+organizations and society, often with a gender or crosscultural perspective. My most recent research examines
+behavioral design to de-bias how we live, learn and work.
+My book, What Works: Gender Equality By Design
+(Harvard University Press 2016) provides scientific
+insights on how to redesign organizations, school and
+society to level the playing field for all.
+Selected Findings from Past Work
+Gender equality is a moral and a business imperative. But unconscious bias holds us back, and debiasing people’s minds has proven to be difficult and expensive. Diversity training programs have had
+limited success, and individual effort alone often invites backlash. Behavioral design offers a new
+solution. By de-biasing organizations instead of individuals, we can make smart changes that have big
+impacts. Presenting research-based solutions, What Works aims to hand decision-makers the tools
+they need to move the needle in classrooms and boardrooms, in hiring and promotion, benefiting
+businesses, governments, and the lives of millions.
+What Works is built on new insights into the human mind. It draws on data collected by
+companies, universities, and governments in Australia, India, Norway, the United Kingdom,
+the United States, Zambia, and other countries, often in randomized controlled trials. It points
+out dozens of evidence-based interventions that could be adopted right now and
+demonstrates how research is addressing gender bias, improving lives and performance.
+What Works shows what more can be done—often at shockingly low cost and surprisingly
+high speed.
+Here is a link to a short (3 min.) video summarizing our work:
+https://www.youtube.com/watch?v=niH9wfKsUIc
+The Women and Public Policy Program and its affiliated faculty currently run about a dozen
+studies on de-biasing organizational practices and procedures, ranging from diagnosing the
+causes of gender gaps in recruitment to de-biasing job advertisements to blind evaluation
+procedures in hiring to development initiatives, performance appraisals, more structured
+promotion processes and inclusive work environments.
+Researcher Profiles
+www.sodi.org 4
+C. Monica Capra
+Professor of Economic Sciences
+Claremont Graduate University
+My research crosses disciplinary boundaries. I have
+collaborated with psychologists, data scientists, and
+neuroscientists to better understand and predict individual
+and group choices in the lab and in the field. I am primarily
+interested in utilizing novel tools and methods and in
+measuring decision processes with a variety of
+applications. I am interested in the role of personality on
+risk and social preferences and in the role of time
+perception in influencing inter-temporal choice. I study
+diverse subject pools including adolescents, immigrants,
+women entrepreneurs, and households affected by
+violence.
+Selected Findings from Past Work
+Adolescents:
+• Results from our fMRI studies suggest that peer effects are mediated by the drive to
+avoid the pain from being different, and that risky behaviors in adolescence are
+correlated with white matter maturity
+Entrepreneurs:
+• We found that personality traits of entrepreneurs enrolled in executive programs influence
+their decision to open a business.
+• - We found evidence that, unlike men, women entrepreneurs exhibited no loss aversion, which
+we consider a measure of resilience.
+Female volunteers:
+• In an ongoing theoretical and laboratory study on volunteering we find that warm-glow
+strongly influences time donations.
+• - We are collaborating with an international network of women entrepreneurs to study
+the effects of mentorship on their sense of wellbeing.
+Immigrants:
+• In an ongoing study with mobile clinic patients in Southern California, we find evidence
+that exposure to adverse childhood experiences affects patients' response to text
+message interventions.
+
+---
+
+
+# Chasya’s Impressive Story
+
+**Score:** 0.12742730975151062
+**Author:** 
+**Published:** 2022-05-23T00:00:00.000Z
+**URL:** http://www.offthederech.org/chasyas-impressive-story/
+
+May 23, 2022/0 Comments/in Blog, Personal Stories /by Chatzkaleh Kofer  
+ 
+ 
+  Related 
+   
+http://www.offthederech.org/wp-content/uploads/2017/07/otd.png
+0
+0
+Chatzkaleh Kofer
+http://www.offthederech.org/wp-content/uploads/2017/07/otd.png
+Chatzkaleh Kofer2022-05-23 15:43:362022-05-23 15:43:40Chasya's Impressive Story
+0
+replies
+ Leave a Reply Want to join the discussion? Feel free to contribute! 
+Leave a Reply    Your email address will not be published. Required fields are marked * Comment *  Name * 
+Email * 
+Website 
+ Notify me of follow-up comments by email.  Notify me of new posts by email.	
+||||I|||| * Blog
+* About Us
++ What is Off the Derech?
++ Our Mission
++ Disclaimer
++ Contact Us!
+* Life Beyond Faith
++ Personal Stories
++ Stories on the Web
++ Newspaper Articles / Posts
++ Videos
++ Podcasts
++ Better Know a Kofer Series
+* Resources
++ Local Support Groups
++ Online OTD Communities
+o Facebook Groups
+o Other Online Communities
++ Abuse
++ Divorce / Custody Issues
++ Alternative Jewish Communities
++ Suicide Prevention
++ The OTD Manual 🔗
++ Catching up on Secular Education
+* Menu
+Chasya’s Impressive Story
+May 23, 2022 / 0 Comments / in Blog , Personal Stories / by Chatzkaleh Kofer
+Share this:
+* Click to share on Twitter (Opens in new window)
+* Click to share on Facebook (Opens in new window)
 *
-दाल बाटी बनाने की सिंपल, सरल रेसिपी Dal Bati Recipe in Hindi
-Date: 28/07/2018 by Mehjabi Naz
-Dal Bati Recipe in Hindi दाल बाटी (Dal bati) एक पारंपरिक राजस्थानी व्यंजन (rajasthani food) है जो की पुरे भारत में उसके बढ़िया स्वाद के कारण लोकप्रिय है। इसमें घी से लथपथ बाटी को पंचमेल दाल (पांच प्रकार की दाल से बनी मिश्र दाल), लहसून की चटनी और चूरमा (Churma) के साथ सर्व किया जाता है। पारंपरिक तरीके में तो बाटी को सीधे गर्म लकड़ी के कोयलों के ऊपर सेंका जाता है लेकिन इस तरीके से घर पर बाटी बनाना काफी मुश्किल है।
-हालांकि, इसका यह मतलब नहीं है कि आप घर पर दाल बाटी का मज़ा ही नहीं उठा सकतें। zayka recipes के जरिए हम घर पर कैसे बहुत ही आसानी से बाटी बनाते है वो दिखाया गया हैं आप या तो ओवन का उपयोग कर सकते है या फिर तंदूर का, और अगर आपके पास ओवन या तंदूर दोनों में से कुछ भी नहीं हैं तो आप बाटी को तेल में तलकर बना सकते है।
-आवश्यक सामग्री – necessary ingredients – Dal Bati Recipe in Hindi
-* गेहूं का आटा = एक कप
-* सूजी = 1/4 कप
-* बेकिंग सोडा = एक चुटकी
-* घी या तेल = 4 टेबलस्पून पिघला हुआ घी, बाटी डुबोने के लिए
-* नमक = स्वादअनुसार
-* दूध या पानी = जरूरत के अनुसार
-* पंचमेल दाल = परोसने के लिए
-विधि – how to make Dal Bati Recipe in Hindi
-ओवन को 190 डिग्री सेल्सियस (375 डिग्री फारेनहाइट) पर प्रिहीट करें। एक परात में गेहूं का आटा छान लें और इसमें सूजी, बेकिंग सोडा, 4 टेबलस्पून घी, (या खाना पकाने का तेल) और नमक डालें (और अगर आप चूरमा बनाने के लिए बाटी बना रहे है तो फिर नमक ना डालें)।
-सारी सामग्री को खूब अच्छी तरह से मिक्स कर ले। अब इसमें थोड़ा-थोड़ा करके दूध डालें और सख्त आटा गूँथ लें। यह पराठे के आटे से थोड़ा सख्त होना चाहिए अब इसे ढककर 15 से 20 मिनट के लिए रख दे।
-अब आटे को 8 बराबर के भागों में बाँट ले और उन्हें गोले का आकर दें। अगर आटे के गोले में कुछ दरारें हैं तो इसकी चिंता ना करे यह बिलकुल सामान्य है। हर एक गोले को बारी-बारी से अपनी हथेलियो के बीच में दबाएं और इन्हें एक बेकिंग ट्रे पर रख दे
-बेकिंग ट्रे को पहले से गरम ओवन में रखें और 375 F (190 C) पर पकने दे जब नीचे की सतह हल्के भूरे रंग की हो जाएं तो बेकिंग ट्रे को बाहर निकाले, इसमें करीब 12 से 15 मिनट का समय लगेगा।
-अब प्रत्येक बाटी को पलटे और फिर से बेकिंग ट्रे ओवन में रख दे इन्हें 10 से 12 मिनट के लिए या जब तक की नीचे की सतह सुनहरे भूरे रंग की हो जाए तब तक पकने दे। अब ट्रे को ओवन में से बाहर निकाले।
-अब एक छोटी सी कटोरी में पिघला हुआ घी लो और प्रत्येक बाटी को घी में डुबाके एक थाली में रखे (आप बाटी को घी में डूबाने के बदले ब्रश से भी बाटी के ऊपर घी लगा सकते है)अब बाटी को तोड़े और उसके ऊपर थोड़ा सा घी डालें। और उसके उपर पंचमेल दाल डालें और राजस्थानी चूरमा, लहसुन की चटनी और पापड़ के साथ सर्व करे।
-सुझाव
-बाटी को गैस तंदूर में कैसे पकाएं?
-गैस तंदूर को अच्छे से गर्म करें। तंदूर की ग्रिल पर कच्ची बाटी रखे और 20 से 25 मिनट के आसपास मीडियम आंच पर पकाइएं और दोनों तरफ से अच्छे से पके इसके लिए बीच में एक बार बाटी को पलटें।
-ओवन या तंदूर के बिना बाटी कैसे बनाएं?
-बाटी को मीडियम कम आंच पर तेल में दोनों तरफ से हल्के सुनहरे भूरे रंग की हो जाने तक तले। क्यूंकि बाटी मोटी होती हैं इसे अंदर से पकाने के लिए अधिक समय लगेगा, इसलिये इसे मीडियम (धीमी) आंच पर ही पकाइये।
-विभिन्न कंपनी के ओवन में अलग-अलग सेटिंग होती है, तो इसके अनुसार पकाने का समय थोड़ा कम या ज्यादा हो सकता है।
-अगर हो सके तो कुरकुरी बाटी बनाने के लिए आटा गूंथते वक्त तेल के बदले में घी का उपयोग करें। और घी की मात्रा कम ना करें।
-सर्व करने का तरीका
-बाटी को छोटे-छोटे टुकड़ों में तोड़े और उसके ऊपर थोड़ा सा घी और पंचरतन दाल (पंचमेल दाल) डालके एक पौष्टिक राजस्थानी भोजन के रूप में चूरमा के साथ सर्व करे।
-* मटर पनीर कुलचा बनाने की आसान विधि
-* टेस्टी साउथ इंडियन सांभर बनाने की विधि
-* बनाएं स्वादिष्ट पंचमेल दाल
-keyword: dal bati recipe in hindi, dal bati banane ki vidhi, dal bati banane ka tarika, rajasthani dal bati ki recipe, dal bati kaise banate hain
-Categories Poori Paratha Recipe , Rajasthani recipe Tags dal bati churma recipe step by step , dal bati recipe in microwave , dal bati recipe sanjeev kapoor , how to make bati in pressure cooker , how to make bati on tawa
-बनाएं स्वादिष्ट पंचमेल दाल । Panchmel Dal Recipe in Hindi
-चीकू का हलवा बनाने की विधि व फायदे Chiku Halwa Recipe
-1 thought on “दाल बाटी बनाने की सिंपल, सरल रेसिपी Dal Bati Recipe in Hindi”
-1. Education Today
-09/12/2021 at 10:11 अपराह्न
-बहुत सुंदर तरीके से बताया है आपने।
-प्रतिक्रिया
-Leave a Comment
-Comment
-Name Email
-* ये लाजवाब स्टार्टर कर देगा आपको उंगलियाँ चाटने पर मजबूर Tomato Chicken Boti Fry Recipe
-* नो बेक नो एग सुपर डिलीशियस चॉकलेट मूस केक Chocolate Mousse Cake Recipe
-* आसान और टेस्टी चॉकलेट नट्स डिज़र्ट बनाने की रेसिपी Chocolate Nuts Dessert Recipe
-* इस तरह से पनीर की सब्ज़ी बनाना जान लेगे तो ढाबे की सब्ज़ी लगेगी बेस्वाद Paneer DilKhush Recipe
-* बिना मेहनत के प्रेशर कुकर में बनाएं होटल से भी अच्छे दम आलू Dum Aloo In Pressure Cooker Recipe
-* दो कप दूध से बनाएं बहुत ही मज़ेदार बाज़ार से भी अच्छी क्रीमी आइसक्रीम Gulab Jamun Ice Cream Recipe
-ब्लॉग के बारे में
-यह एक हिन्दी ब्लॉग है, जिसका मकसद है लोगो को हिन्दी भाषा में विभिन्न रेसिपी उपलब्ध कराना। इस ब्लॉग के जरिये से आप बहुत ही स्वादिष्ट खाना बना सकते हैं और नये-नये स्वाद का मज़ा चख सकते हैं और अधिक जानकारी के लिए यहाँ क्लिक करें
-अन्य महत्वपूर्ण लिंक
-Achar Baking Masala Rice
-Chaat Chutney Non-Veg Salad
-Health Laddu Pakaude Submit
-Sweets Halwa Paneer Adverting
-Youtube Click here Telegram Click here Facebook Click here Download Click here
-Copyright © 2023 zaykarecipes.com All Rights Reserved.
+Related
+Share this entry
+* Share on Facebook
+* Share on Twitter
+* Share on Google+
+* Share on Pinterest
+* Share on Linkedin
+* Share on Tumblr
+* Share on Vk
+* Share on Reddit
+* Share by Mail
+http://www.offthederech.org/wp-content/uploads/2017/07/otd.png 0 0 Chatzkaleh Kofer http://www.offthederech.org/wp-content/uploads/2017/07/otd.png Chatzkaleh Kofer 2022-05-23 15:43:36 2022-05-23 15:43:40 Chasya's Impressive Story
+0 replies
+Leave a Reply
+Want to join the discussion?
+Feel free to contribute!
+Leave a Reply
+Your email address will not be published. Required fields are marked *
+Comment *
+Name *
+Email *
+Website
+Notify me of follow-up comments by email.
+Notify me of new posts by email.
+Δ
+Recent Posts
+* Talk Beliefs Interviews the Dutch OTD Author Dina-Perla December 27, 2022
+* Izzy Posen in The Guardian July 22, 2022
+* Chasya’s Impressive Story May 23, 2022
+* Former Ultra Orthodox Who Lost Custody on Her Children Speaks Out August 18, 2021
+* Prof. Solomon Schimmel’s Story July 28, 2021
+* Podcast about Off the Derech by Jonathan Gabay October 12, 2020
+Archives
+* December 2022
+* July 2022
+* May 2022
+* August 2021
+* July 2021
+* October 2020
+* June 2020
+* March 2020
+* December 2019
+* September 2019
+* August 2019
+* July 2019
+* June 2019
+* May 2019
+* April 2019
+* March 2019
+* February 2019
+* December 2018
+* November 2018
+* July 2018
+* June 2018
+* May 2018
+* April 2018
+* March 2018
+* February 2018
+* January 2018
+* December 2017
+* November 2017
+* October 2017
+* September 2017
+* August 2017
+* May 2017
+* April 2017
+* March 2017
+* February 2017
+* January 2017
+* December 2016
+* November 2015
+* October 2015
+* April 2015
+* March 2015
+* February 2015
+In the News
+* Talk Beliefs Interviews the Dutch OTD Author Dina-Perla December 27, 2022 - 7:16 pm
+Share this:
++ Click to share on Twitter (Opens in new window)
++ Click to share on Facebook (Opens in new window)
++
+* Izzy Posen in The Guardian July 22, 2022 - 9:25 pm
+Share this:
++ Click to share on Twitter (Opens in new window)
++ Click to share on Facebook (Opens in new window)
++
+* Podcast about Off the Derech by Jonathan Gabay October 12, 2020 - 10:05 am
+Share this:
++ Click to share on Twitter (Opens in new window)
++ Click to share on Facebook (Opens in new window)
++
+Privacy & Cookies: This site uses cookies. By continuing to use this website, you agree to their use.
+To find out more, including how to control cookies, see here: Cookie Policy
+Interesting links
+Here are some interesting links for you! Enjoy your stay :)
+Pages
+* Abuse
+* All Personal Stories
+* Anonymous Letters
+* Better Know a Kofer Series
+* Catching up on Secular Education
+* Community
+* Contact Us!
+* Disclaimer
+* Divorce / Custody Issues
+* Facebook Groups
+* Family
+* From Anger to Forgiveness
+* From Doubt to Confidence
+* From Loneliness to Connection
+* From Stuck to Liberated
+* Join OTD efforts to make a difference!
+* Life Beyond Faith
+* Local Support Groups
+* Looking Back … What I Miss
+* Main
+* News
+* Newspaper Articles / Posts
+* on our own Derech
+* Online OTD Communities
+* OTD ‘Mixed Marriages’
+* OTD Blogs
+* Other Online Communities
+* Podcasts
+* Spirituality
+* Suicide Prevention
+* Videos
+* About Us
+* Find Community
+* Personal Stories
+* What is Off the Derech?
+* Get Help
+* Our Mission
+* Stories
+* Alternative Jewish Communities
+* Learn
+* The Vlog
+* Stories on the Web
+* Take Action
+* Support Off the Derech
+* Topics A-Z
+Categories
+* Blog
+* News
+* OTD Website
+* Personal Stories
+* Resources
+* Stories on the Web
+Archive
+* December 2022
+* July 2022
+* May 2022
+* August 2021
+* July 2021
+* October 2020
+* June 2020
+* March 2020
+* December 2019
+* September 2019
+* August 2019
+* July 2019
+* June 2019
+* May 2019
+* April 2019
+* March 2019
+* February 2019
+* December 2018
+* November 2018
+* July 2018
+* June 2018
+* May 2018
+* April 2018
+* March 2018
+* February 2018
+* January 2018
+* December 2017
+* November 2017
+* October 2017
+* September 2017
+* August 2017
+* May 2017
+* April 2017
+* March 2017
+* February 2017
+* January 2017
+* December 2016
+* November 2015
+* October 2015
+* April 2015
+* March 2015
+* February 2015
+© Copyright - Off the Derech - Enfold WordPress Theme by Kriesi
+* Blog
+* About Us
+* Life Beyond Faith
+* Resources
+Former Ultra Orthodox Who Lost Custody on Her Children Speaks Out Izzy Posen in The Guardian
+Scroll to top
 
 ---
 
 
-# Chaat
+# About Me
 
-**Score:** 0.15571819245815277
-**Author:** Contributors to Wikimedia projects
-**Published:** 2005-05-05T00:00:00.000Z
-**URL:** https://en.wikipedia.org/wiki/Chaat
+**Score:** 0.1273430436849594
+**Author:** 
+**Published:** 2020-01-01T00:00:00.000Z
+**URL:** https://doyalovi.blogspot.com/p/about-me.html
 
-From Wikipedia, the free encyclopedia
+I am a musician and traveler who loves to travel different places listening and singing music. As a singer and musician i am well known in the media as 'doyalovi' and meanwhile i have achieved 3 national awards in the year of 2001, 2003 and 2004 as a folk (country songs)singer and as a traveler i have visited different places and cities inside Bangladesh and outside of it. 
+   
+Couple of videos of visiting places are stored in the following link:
+ MUSICAL ALBUMS: 
+1. Ganer Michile (G Series)
+2. Premer Mora Jole Dobe Na (G Series)
+3. FA Sumon Featuring Ovi (G Series)
+4. Kotha Hote Ele (G Series)
+5. Prem Shikari (G Series)
+6. Korlam Eki Vul (G Series)
+ AWARDS: 
+1. National Award winner 2001 (organized by BTV)
+2. National Award winner (Gold Medal, 2003- Organized by Ministry of Education)
+3. National Award winner (Silver Medal, 2004- Organized by Ministry of Education)
+4. CJFB Performance award 2011 as a singer of New Generation
+5. Honorary crest (organized by BTV)
+6. Honorary crest for my contribution in folk music given by ministry of information.
+One of my song became very popular in the Bangladeshi media industry whose link is given below:
+As traveler i loves to visit new places keeping the rhythm of music into my soul and as a singer and musician i do believe music is all about listening, not watching where i have been observing for couple of years that most of the musicians are devoted making music videos where so far i do believe that the ultimate motto of music is somehow missing.
+I have some solo musical albums:
+   
+   
+   
+   
+Some snaps of my achievements:     Indian Appreciation Certificate     Indian Appreciation Certificate
  
-  Chaat           Dahi puri, a variation of panipuri      Alternative names Saat (Sylhet)   Type  Snack    Place of origin  Indian subcontinent    Region or state  Gujarat, Rajasthan, Odisha, West Bengal, Uttar Pradesh and Madhya Pradesh            Media: Chaat       
- Chaat, or chāt (IAST: cāṭ) (lit.   ' lick, tasting, delicacy ') is a family of savoury snacks that originated in India, typically served as an hors d'oeuvre or at roadside tracks from stalls or food carts across South Asia in India, Pakistan, Nepal and Bangladesh. [1]   [2]  With its origins in Uttar Pradesh, India, [3]  chaat has become immensely popular in the rest of South Asia.
- Etymology  [  edit  ]  
-    Chaat masala is a distinct spice blend used specifically in chaat snacks. 
-The word derives from Hindi cāṭ चाट (tasting, a delicacy), from cāṭnā चाटना (to lick, as in licking one's fingers while eating), from Prakrit caṭṭei चट्टेइ (to devour with relish, eat noisily). [4] 
- Overview  [  edit  ]  
-    Panipuri is one of the popular chaats in South Asia. 
-    Dahi vada chaat with yogurt 
-The chaat variants are all based on fried dough, with various other ingredients. The original chaat is a mixture of potato pieces, crisp fried bread, dahi vada or dahi bhalla, gram or chickpeas and tangy-salty spices, with sour Indian chili and saunth (dried ginger and tamarind sauce), fresh green coriander leaves and yogurt for garnish, but other popular variants included alu tikkis or samosa (garnished with onion, potatoes, coriander, peas, hot spices and a dash of yogurt), bhel puri, dahi puri, panipuri, dahi vada, papri chaat, and sev puri.
- There are common elements among these variants including dahi (yogurt); chopped onions and coriander; sev (thin dried yellow salty noodles); and chaat masala, typically consisting of amchoor (dried mango powder), cumin, kala namak (Himalayan black rock salt), coriander, dried ginger, salt, black pepper, and red pepper. The ingredients are combined and served on a small metal plate or a banana leaf, dried and formed into a bowl.
- History  [  edit  ]  
-Some of the dishes now categorized as chaats, such as Dahi Vada, can be traced back to ancient periods. A recipe for a dahi vada analogue called kshiravata is mentioned in  Manasollasa , a 12th-century Sanskrit encyclopedia compiled by Someshvara III, who ruled from present-day Karnataka. [5]   [6]  According to food historian K.T Achaya, descriptions of dahi vada also appear in literature far earlier from 500 BC. [7] 
- Another dish resembling as chaat as an organized phenomenon or distinct group of dishes, according to culinary anthropologist Kurush Dalal, originated in northern India (now Uttar Pradesh) in the late 17th century during the reign of Mughal Emperor Shah Jahan. The royal doctors had asked the people of Delhi to consume spicy and fried snacks, as well as dahi, as a countermeasure to the alkaline water of the Yamuna river that coursed through the city. [8] 
- Most chaats originated in some parts of Uttar Pradesh in India later in 20th century, [9]  but they are now eaten all across South Asia and neighboring countries. Some are results of cultural syncretism.
- Regions  [  edit  ]  
-Chaat is famous in South Asia in India, Pakistan, Nepal and Bangladesh.
- Variations  [  edit  ]  
-    Bhelpuri is a popular puffed-rice chaat. 
-   Raj Kachori chaat 
-   A plate of Masala puri made by street vendors in the chaat stalls near Bangalore 
-   Katori Chaat 
-   Dahi puri chaat 
-  Alu chaat - Potatoes (alu in Hindi) cut into small pieces, fried till crisp and served with chutney 
- Alu tikki 
-Bedmi - Puri stuffed with dal and fried till crisp. Typically served with alu sabji and eaten for breakfast
- Bhalla/alu tikki 
- Bhelpuri 
- Ragda patties (alu tikki chaat)
- Cheela- Besan (chickpea flour) pancakes served with chutney and sooth (sweet chutney)
- Chotpoti, mixture of boiled diced potatoes, boiled chickpeas and sliced onions and chillies with grated eggs on top. Many kinds of roasted spice powder are used in its preparation.
- Dahi puri 
- Dahi vada 
- Kachori- or Kachauri, with variants such as Khasta Kachuari
-Mangode - Similar to pakora, but besan paste is replaced with yellow moong paste
- Pakora - Different things such as paneer, vegetable dipped in besan (chickpea/gram flour) paste and fried.
- Panipuri 
- Masalapuri 
-Nagori Halwa
-Chana chaat
- Papri chaat - This contains fried patty called papri as an extra ingredient.
-Samosa chaat - samosa is broken into pieces with green and sweet chutney added to it.
- Sevpuri 
- Vada pav 
-Dahi bhallay ki chaat (bhallay, potatoes, chickpeas, imli chutney, chaat masala, onions, tomatoes, dahi etc.)
-Beetroot &amp; potato chaat [10]  
-Dhaka chaat [11]  
-Paneer chaat puri
- Thattu Vadai Set  [12]  
-Dal ki chaat - Made with moong dal mixed with spices and chutney and accompanied with wheat biscuits. Popular in Meerut.
-Raj kachori - a big hollow ball made with wheat and filled with sprouts, chickpeas, potatoes, bhalla and chutneys (sweet and green).
-Basket chaat - Edible bowl made with potato and filled with sprouts, chickpeas, potato and chutneys. Popular in Lucknow.
-Ram ladoo - Round fitters made from mong dal and served with radish and grey chutney.
- Dabeli - a sweet and sour burger like Gujrati snack made with potatoes, sev, groundnut and pomegranate
-Barule - whole potato coated with besan is deepfried and served with green chutney. [13]   
- See also  [  edit  ]  
-  List of Indian snack foods 
- List of tapas (Spanish snacks)
-       Food portal  
- References  [  edit  ]  
+     
+ Recognition from Australia 
  
-   ^     Thumma, Sanjay. "Chaat Recipes". Hyderabad, India: Vahrehvah.com. Archived from the original on 3 November 2012. Retrieved 27 November 2012.   
-   ^     "The Chaat Business". infokosh.bangladesh.gov.bd (in Bengali). Archived from the original on 29 November 2012. Retrieved 17 October 2012.   
-   ^     "10 Best Recipes From Uttar Pradesh (Varanasi/ Agra / Mathura )". NDTV. 25 October 2013. Archived from the original on 28 October 2013. Retrieved 26 October 2013.   
-   ^   Oxford English Dictionary. Chaat. Mar. 2005 Online edition. Retrieved 18 February 2008.
-   ^    K.T. Achaya (2003).  The Story of Our Food . Universities Press. p. 85. ISBN  978-81-7371-293-7 .   
-   ^    Vishal, Anoothi. "Chaat Masala: Gourmet Indian street food". The Economic Times . Retrieved 4 September 2020.   
-   ^    Krishna, Priya (17 August 2020). "Chaat Is More Than the Sum of Its Many Flavors". The New York Times. ISSN 0362-4331 . Retrieved 4 September 2020.   
-   ^    Ramadurai, Charukesi (3 June 2020). "Pani Puri: India's favourite street food... at home?". BBC Travel . Retrieved 25 August 2020.   
-   ^     "10 Best Recipes From Uttar Pradesh (Varanasi/ Agra / Mathura )". NDTV. 25 October 2013. Archived from the original on 28 October 2013. Retrieved 26 October 2013.   
-   ^    Moghul, Sobiya N. (25 October 2013). "Beetroot and potato chaat recipe".  The Times of India . Archived from the original on 15 November 2013. Retrieved 15 November 2013.   
-   ^    D.Nath, Subha. "Dhaka chaat" (PDF). Archived from the original (PDF) on 9 November 2017. Retrieved 9 November 2017.   
-   ^    Saravanan, S.P. (28 October 2015). "Salem's own evening Snack". The Hindu . Retrieved 22 January 2018.   
-   ^     "Watch: Viral Video of a Famous Street Food Disapproved by the Internet; Here's Why".   
  
- External links  [  edit  ]  
-      Media related to Chaat at Wikimedia Commons
+     
+ Recognition from Australia 
+ 
+ 
+     
+ National Award: Silver Medal 
+ 
+ 
+     
+ National Award: Gold Medal 
+ 
+ 
+     
+ Human Right Recognition 
+ 
+ 
+     
+ Human Right certification 
+ 
+ 
+     
+      CJFB Performance Award 
+ 
+ 
+     
+ Honorary Crest given by an Organization at Kushtia 
+ 
+ 
+     
+ Honorary crest given by BTV 
+ 
+ 
+     
+ Honorary Meeting with our Ex President Mr Ershad 
+ 
+ 
+     
+ Receiving gold medal from the prime minister of Bangladesh Begum Khaleda Zia
+   
+Receiving Gold Medal from PM 
+ 
+ 
+     
+ Private Recognition as a corporate Media Personality  
+ 
+ 
+     
+ Ministry of Information certification 
+ 
+ 
+     
+ Colombo Publication Certification 
+ 
+ 
+     
+ Colombo Recognition 
+ 
+ 
+     
+ With BTV Crest 
+ 
+ 
+     
+ Thesis submission to our information minister Mr Hasanul Huq Inu 
+ 
+ 
+     
+ Honorary crest given by private organization 
+ 
+ 
+     
+ Receiving crest from Ms Sahara Khatun 
+ 
+ 
+     
+ Recognition for initiating a game changing program at SATV 
+ 
+ 
+     
+ Certification from COF for initiating a game changing program at SATV  
+ 
+ 
+     
+ Receiving crest for my contribution in folk music from Mr Hasanul Huq Inu
 
 ---
 
 
-# Machher Jhol
+# Sazid Zaman
 
-**Score:** 0.15513646602630615
-**Author:** Contributors to Wikimedia projects
-**Published:** 2009-06-22T00:00:00.000Z
-**URL:** https://en.wikipedia.org/wiki/Machher_Jhol
+**Score:** 0.12662316858768463
+**Author:** 
+**Published:** 2019-01-01T00:00:00.000Z
+**URL:** https://www.grad.ubc.ca/alumni/profile/sazid-zaman
 
-From Wikipedia, the free encyclopedia
+Civil (Hydraulic) Engineer 
+ Dhaka, Bangladesh
+ Montréal, Canada
+Decision analysis framework for high inflow events for small hydropower reservoir systems. 
+2010 
+What are your main responsibilities or activities in your current position? 
+Computer modeling (writing) and optimization of surface water (HecRas-1D, River-2D, Flow-3D) for hydrologic and hydraulic studies
+Large-scale, multi-discipline, multi-year construction projects, applying project management methodology
+Project proposal and technical report writing
+Scientific analysis and design preparation of feasibility studies for clients
+How does your current work relate to your graduate degree? 
+I did my postgraduate degree in Civil Engineering at UBC with a specialization in Hydrotechnical Engineering. For the degree, I had to do research work, the outcome of which was my thesis for BC Hydro - one of the biggest public utility companies in Canada in the sector of hydropower. My research was funded by a collaboration between BC Hydro and UBC, so it was mandatory for me to work 2-3 days a week in BC Hydro’s Edmonds office on non-research work. Because I had just arrived in Canada, I had very few experiences working in my field of industry. Course work at UBC and the professional environment at BC Hydro helped me learn how to correlate my educational background with a professional and highly technical setting and to grow my confidence for the future.
+What do you like and what do you find challenging about your current position? 
+My job is always full of new challenges, and it is getting more complicated day by day with new complications arising from climate change.
+Is your current career path as you originally intended? 
+This has been my dream job since my childhood due to the challenges and conditions in Bangladesh regarding water.
+What motivated you to pursue graduate work at UBC? 
+After completing my undergrad I worked for a year in a private firm. At that time, I realized that my knowledge as an engineer was not robust enough to solve real life problems. The main cause of it was my research deficiency. So I decided to pursue a research-based graduate degree. Also the weather of Vancouver and the multicultural setup of the city attracted me.
+What did you enjoy the most about your time as a graduate student at UBC? 
+Multiculturalism, teachers, events, the campus (best in Canada).
+What key things did you do, or what attitudes or approaches did you have, that contributed to your success? 
+Staying positive, persistence, and being truthful and a perfectionist to a point.
+What is your best piece of advice for current graduate students preparing for their future careers? 
+Always be positive and keep networking.
+How are jobs normally posted and filled in your organization or industry? 
+Through career websites and references.
+External Links
+
+---
+
+
+# WATCH: Nust director applies genetics to farming
+
+**Score:** 0.12579111754894257
+**Author:** Webdev - Fintech web projects
+**Published:** 2021-05-25T00:00:00.000Z
+**URL:** https://www.chronicle.co.zw/watch-nust-director-applies-genetics-to-farming/
+
+Nqobile Tshili, Chronicle Reporter 
+MOST people know him as the director of the National University of Science and Technology’s (Nust) Applied Genetics Testing Centre involved in DNA testing.
+Mr Zephaniah Dhlamini was among the frontline workers in Bulawayo leading the city’s Covid-19 tests in April last year when the country started grappling with the deadly pandemic.
+Unbeknown to many Mr Dhlamini (49) is not just a laboratory scientist, who is always wearing “white lab coats.” He is an avid farmer getting dirty on the land and is making money from the soil.
+He is part of a three-man farming venture operating under the name Esidakeni Farm in Umguza on the outskirts of Bulawayo and employs 45 full time workers.
+During the harvesting period, they contract part time workers to assist and the numbers can exceed 100 people.
+Mr Dhlamini is co-director of the farm together with Mr Charles Moyo and Mr Siphosami Malunga.
+    Esidakeni workers load crates of harvested tomatoes  
+They are involved in commercial horticulture farming inclusive of tomatoes, onions, beetroot, cabbages and butternut.
+Mr Dhlamini on Sunday took a Chronicle news crew on a tour of the farm explaining how employing science is enhancing agriculture.
+He said his knowledge of genetics has given them a competitive edge over other farmers producing crops when everyone least expects them to do so.
+“Our strategy in doing these projects is to produce most of our products off season when most of the farmers are not producing so as to have an advantage at the market in terms of prices. When the supply is low, we tend to get good prices as you have probably seen we had over two hectares of cabbages which we planted during the rainy season where most people don’t plant. We had a lot of rain during this past season, you get a lot of diseases in cabbages such as black rot, diamondback moth which can destroy your entire crop,” said Mr Dhlamini.
  
-  Macher Jhol         Macher Jhol    Alternative names Machhako jhol   Type Seafood curry   Course Main course   Place of origin  Nepal  India  Bangladesh    Region or state  Mithila of Bihar, Odisha and Bengal    Associated cuisine   India and Nepal (Maithili-Bengali Cuisine)  Bangladesh (Bengali-Bangladeshi cuisine)   Main ingredients  Fish, potato, chili, tomato, garlic, ginger, onion, Indian spices            Media: Macher Jhol       
- Machher Jhol (Bengali: মাছের ঝোল), Machha Jhola (Odia: ମାଛ ଝୋଳ), Machhak Jhor (Maithili: माछक झोर / Nepali: माछाको झोल), or Machhari ke Jhor (Bhojpuri: मछरी के झोर) is a traditional spicy fish curry in Nepalese cuisine (including Maithili Cousine and Bhojpuri Cuisine), Indian Cuisine (including Maithili Cuisine, Bhojpuri Cuisine, and Odia cuisines) and Bangladeshi Cuisine (Bengali Cuisine) in the eastern part of the Indian subcontinent. It is in the form of a very spicy stew or gravy that is served with rice. Machher Jhol is liberally seasoned with turmeric, garlic, onions, and grated ginger and Indian spices. Potatoes are added to the curry as a thickening agent. Tomatoes are also added to impart the dish with a reddish color which is preferred by the people of Bengal. [1] 
- The kinds of fish that typically used in Odia and Bengali households are ilish or ilishi, rui, and catla. Apart from these, there are some famous small sized fish that are normally favoured over others. [2] 
-   Pabda macher jhal cooked with ginger, green chilies, tomato paste, and coconut milk 
- See also  [  edit  ]  
-  Bengali cuisine 
- Dahi machha 
- Chingudi jhola 
- Chhencheda 
- Odia cuisine 
- Maithil cuisine 
- Bhojpuri cuisine  
- References  [  edit  ]  
+“So, what we do is to look for genetics that have varieties which are resistant to the diseases and adverse conditions that you may be facing in that particular season. So, you have to invest in pest control, disease control just to improve your management and improve the crop yield during that season.”
+He said through employing science they are able to grow butternut to close the gap that usually exists between June to November when the country would be having a short supply of the product.
+“Also, from August to October there is a shortage of tomatoes, we come in because we have an area in the farm which is elevated and it is frost free, we have tested it over the years. This year we are growing six hectares of tomatoes during winter and these mature starting August up to November,” he said.
+Mr Dhlamini said starting yesterday they were planting 150 000 tomato plants, which is unprecedented in winter but they were positive to get a good yield.
+He said while he is known for DNA testing, he has always been an agronomist with his first degree being crop sciences from the University of Zimbabwe.
+Mr Dlamini said at UZ, he learnt that agriculture was a lucrative business as they would go on field visits to some white commercial farms for practical lessons.
  
-   ^    Chowdhury, Sarbari. Earthen Angels: A Collection of Short Stories. Sarbari Chowdhury. ISBN  0979289114 .   
-   ^     "Machha fish curries".
+“Most people know me as a DNA testing guy but I’m a trained agriculturalist, I’m an agronomist. My first degree is in agronomy but I specialised in genetics. I then specialised in molecular genetics which is DNA genetics. That’s what makes me fit in the lab with the molecular genetics aspect. But genetics is what I’m doing here,” said Mr Dlamini.
+He said being a lecturer does not pay as much as being in the agriculture sector.
+“We moved onto this farm in 2018, before I was doing it on a small scale in areas where there is no water mainly in plots in Bulawayo. Here we are in the aquifer region so there is plenty of water, it assists.
+“You cannot make much money working at the lab and teaching at a university. This is why we (lecturers) are always crying and complaining but this (farming) tends to supplement one’s income and abilities to do certain things,” he said.
+Mr Dlamini said farming could transform the country’s economic fortunes if it is done right.
+He said serious funding is needed in farming and to kickstart the farming they had to put out their properties as collateral to get finances.
+“The kind of cropping you see here; you are looking at US$100 000 investment in terms of chemicals and seed and all these things. It’s expensive and no one has US$100 000 in their back pocket. So, you have to approach banks for loans.
+“But as you all know you cannot get funding from the bank using land because banks no longer accept it (land) as collateral. In our case we have title deeds to this farm but we can’t use them to farm,” he said.
+“To get loans, you have to use other properties, urban properties, and this is the risk that we took. You put your main dwelling on the line but you can only do so when you believe in what you are doing. You can’t go and take US$100 000 and then you are given the money and not use it.”
+He said so many people were failing on commercial farming as they use salaries to finance agricultural ventures.-@nqotshili
 
 ---
